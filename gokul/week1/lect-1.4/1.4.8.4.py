@@ -3,7 +3,8 @@
 x="10.5"
 a="21"
 b=int(a)
-y=int(x)
+y=int(float(x))
 print(a)
 print(type(x))
 print(type(y))
+
