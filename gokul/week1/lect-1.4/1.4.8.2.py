@@ -3,4 +3,5 @@
 # n=int(input())
 # print(n)
 # ```
-
+n=int(input("Enter the nu :"))
+print(n)
