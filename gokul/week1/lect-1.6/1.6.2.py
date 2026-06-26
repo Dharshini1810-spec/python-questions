@@ -2,3 +2,4 @@
 #     ```
 #     name="gokul"
 #     ```
+print('literal=gokul && variable=name')
