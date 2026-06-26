@@ -4,5 +4,5 @@ n=str(input("what is your name?"))
 print("Which placre are you in?")
 p=str(input())
 n,p=p,n
-print("Hello",n,"How is the weather in" ,p )
+print("Hello",p,"How is the weather in" ,n)
 #     ```
