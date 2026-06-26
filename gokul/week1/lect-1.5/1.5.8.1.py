@@ -7,5 +7,6 @@ place="sathy"
         # x=f"{name} is a boy
 
 # gokul of age 25 is from sathy
-
+x=f"{name} of age {age} is from {place}"
+print(x)
 
