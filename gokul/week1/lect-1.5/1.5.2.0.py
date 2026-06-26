@@ -7,3 +7,9 @@
 # print(n/2)
 # print(n-n)
 #     ```
+n=float(input())
+print(n*n)
+print(n+n+n)
+print(4*n)
+print(n/2)
+print(n-n)

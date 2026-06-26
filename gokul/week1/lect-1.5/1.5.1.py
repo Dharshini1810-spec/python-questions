@@ -3,3 +3,5 @@
 #     ```
 #     n=input()
 #     ```
+n=input()
+print(type(n))
